@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { Search, Sun } from "lucide-react";
+import { Search } from "lucide-react";
 
 const AnimatedCircle = () => {
   const [text, setText] = useState(
