@@ -6,7 +6,7 @@ const InitialLoader = () => {
       <div className="absolute top-0 left-1/2 transform -translate-x-1/2 mt-4">
         <img
           src="/logo.png"
-          alt="Top Center Image"
+          alt=""
           className="w-[150px] md:w-[200px] h-auto"
         />
       </div>
@@ -24,7 +24,7 @@ const InitialLoader = () => {
         <div className="absolute inset-0">
           <img
             src="/card.webp"
-            alt="Wedding Invitation"
+            alt=""
             className="md:w-full md:h-full w-[17rem] h-[17rem] object-cover rounded-lg shadow-lg"
           />
         </div>
@@ -43,7 +43,7 @@ const InitialLoader = () => {
         >
           <img
             src="/letter.png"
-            alt="Wedding Details"
+            alt=""
             className="w-[170px] md:w-full h-[150px] md:h-[200px] rounded-md shadow-md"
           />
         </motion.div>
