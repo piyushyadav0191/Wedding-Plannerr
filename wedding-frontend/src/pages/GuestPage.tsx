@@ -59,12 +59,12 @@ const GuestPage = () => {
       <div className="w-full md:w-[30%] flex flex-col items-center justify-center bg-white p-6">
         <img
           src="/logo.png"
-          alt={data[currentIndex].title}
+          alt=""
           className="max-w-full max-h-full object-contain mb-4"
         />
         <img
           src={data[currentIndex].imageUrl}
-          alt={`${data[currentIndex].title} top`}
+          alt=""
           className="max-w-full max-h-full object-contain"
         />
       </div>

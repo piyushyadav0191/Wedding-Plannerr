@@ -78,13 +78,13 @@ const ProposalPage = () => {
 
       <div className="flex w-full min-h-screen bg-gradient-to-r from-[#FEFEFE] via-[#FDFCF1] via-[#FCF9DF] to-[#FCF6D1] flex-col items-center">
         <div className="w-full flex justify-center mt-8">
-          <img src="/logo.png" alt="Top Image" className="w-[200px] h-auto" />
+          <img src="/logo.png" alt="" className="w-[200px] h-auto" />
         </div>
         <div className="flex w-full flex-1 flex-col md:flex-row">
           <div className="w-full md:w-1/2 flex items-center justify-center">
             <img
               src="/prop.png"
-              alt="Layout Visual"
+              alt=""
               className="w-[80%] h-[80%] object-cover"
             />
           </div>
